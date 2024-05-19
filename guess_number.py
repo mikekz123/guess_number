@@ -14,7 +14,3 @@ while True:
     
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-"""sdsdsdsdsds"""
-#AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-"""sdsdsdsdsds"""
